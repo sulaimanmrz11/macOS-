@@ -1,4 +1,4 @@
-# Hassan's dotfiles
+# sulaiman macOS 
 
 ## Installation
 
